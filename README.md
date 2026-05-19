@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## 👋 ¡Hola! Soy ARCTTeam (Alvaro Ramirez Naranjo)
+## ¡Hola! Soy Alvaro (ARCTTeam) 👋
 
 Ingeniero informático apasionado por la tecnología y las infraestructuras de red. Trabajo con **Linux**, **Docker** y **pfSense** para entornos fiables y seguros. Desarrollo páginas web tanto a medida con **HTML/CSS** como en **WordPress**, combinando diseño y funcionalidad. Además, creo scripts de automatización en **PowerShell** para Windows y en **Bash** para Linux, mejorando flujos de trabajo y tareas repetitivas. Cuento con experiencia en soporte técnico e implantación de software, lo que me ha enseñado a entender las necesidades reales de los usuarios y traducirlas en soluciones eficaces. En mi tiempo libre disfruto optimizando y personalizando sistemas operativos Windows, maximizando su rendimiento y adaptándolos a cada necesidad. Creo firmemente en el aprendizaje diario y en compartir conocimiento.
 
