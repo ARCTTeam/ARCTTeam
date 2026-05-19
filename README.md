@@ -12,7 +12,6 @@
 
 <!-- Encabezado con badges -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Antonio+Leiva;AI+%26+Android+Educator;Building+in+public" alt="Typing SVG" />
   <br/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -23,7 +22,7 @@
 
 <br/>
 
-📍 **Madrid, Spain** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
+📍 **La Habana, Cuba** | 🚀 **Building in the future** | 🤖 **Docker + Docker-Compose**
 
 ## ¡Hola! Soy Alvaro (ARCTTeam) 👋
 
