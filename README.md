@@ -63,3 +63,6 @@ Ingeniero informático apasionado por la tecnología y las infraestructuras de r
 ---
 
 ⭐️ _Este README está inspirado en el formato de mi Wife
+---
+
+![GitHub Contributions](https://ghchart.rshah.org/ARCTTeam)
