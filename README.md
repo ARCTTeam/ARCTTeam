@@ -50,7 +50,7 @@ Ingeniero informático apasionado por la tecnología y las infraestructuras de r
 
 ## 🚀 Proyectos destacados
 
-- [WinOS-ISO-Debloater](https://github.com/ARCTTeam/WinOS-ISO-Debloater) - herramienta avanzado para modificar imágenes ISO de Windows (10 / 11).
+- [WinOS-ISO-Debloater](https://github.com/ARCTTeam/WinOS-ISO-Debloater) - Herramienta avanzada para modificar imágenes ISO de Windows (10 / 11).
 - [Nombre de proyecto 2](link) - Breve descripción.
 - [Nombre de proyecto 3](link) - Breve descripción.
 
