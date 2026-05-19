@@ -10,6 +10,21 @@
   </a>
 </p>
 
+<!-- Encabezado con badges -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=2E9AFF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Antonio+Leiva;AI+%26+Android+Educator;Building+in+public" alt="Typing SVG" />
+  <br/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI%20Codex-121212?style=for-the-badge&logo=openai&logoColor=white" />
+</div>
+
+<br/>
+
+📍 **Madrid, Spain** | 🚀 **Building in the future** | 🤖 **Android + AI educator & builder**
+
 ## ¡Hola! Soy Alvaro (ARCTTeam) 👋
 
 Ingeniero informático apasionado por la tecnología y las infraestructuras de red. Trabajo con **Linux**, **Docker** y **pfSense** para entornos fiables y seguros. Desarrollo páginas web tanto a medida con **HTML/CSS** como en **WordPress**, combinando diseño y funcionalidad. Además, creo scripts de automatización en **PowerShell** para Windows y en **Bash** para Linux, mejorando flujos de trabajo y tareas repetitivas. Cuento con experiencia en soporte técnico e implantación de software, lo que me ha enseñado a entender las necesidades reales de los usuarios y traducirlas en soluciones eficaces. En mi tiempo libre disfruto optimizando y personalizando sistemas operativos Windows, maximizando su rendimiento y adaptándolos a cada necesidad. Creo firmemente en el aprendizaje diario y en compartir conocimiento.
