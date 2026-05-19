@@ -86,4 +86,3 @@ Ingeniero informático. Trabajo con **Linux**, **Docker**, **Proxmox** y **pfSen
 
 ---
 
-![GitHub Contributions](https://ghchart.rshah.org/ARCTTeam)
