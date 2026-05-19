@@ -67,7 +67,7 @@ Ingeniero informático. Trabajo con **Linux**, **Docker**, **Proxmox** y **pfSen
 ## 🚀 Proyectos destacados
 
 - [WinOS-ISO-Debloater](https://github.com/ARCTTeam/WinOS-ISO-Debloater) - Herramienta avanzada para modificar imágenes ISO de Windows (10 / 11).
-- [Nombre de proyecto 2](link) - Breve descripción.
+- [PriceControl](https://github.com/ARCTTeam/PriceControl) - Aplicación web estática de control de precios y liquidación.
 - [Nombre de proyecto 3](link) - Breve descripción.
 
 ## 📫 Cómo contactarme
