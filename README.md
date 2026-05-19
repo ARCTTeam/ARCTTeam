@@ -78,7 +78,12 @@ Ingeniero informático. Trabajo con **Linux**, **Docker**, **Proxmox** y **pfSen
 
 ---
 
-⭐️ _Este README está inspirado en el formato de mi Wife
+<br/>
+
+## 📅 Contribuciones en el último año
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/ARCTTeam)
+
 ---
 
 ![GitHub Contributions](https://ghchart.rshah.org/ARCTTeam)
