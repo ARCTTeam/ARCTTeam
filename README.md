@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ARCTTeam">
-    <img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/ctt-600px-github.png" alt="Banner" width="100%">
+    <img src="https://raw.githubusercontent.com/ARCTTeam/img/refs/heads/main/arctteam-600px-github.png" alt="Banner" width="100%">
   </a>
 </p>
 
